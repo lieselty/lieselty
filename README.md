@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm learning how to use GitHub, I'm a bit lost but seems fun 
 
 <!--
 **lieselty/lieselty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
