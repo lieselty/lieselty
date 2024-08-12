@@ -1,4 +1,6 @@
 ### Hi there, currently learning a lot of things ! 🥰
+- 🕰️ Currently doing a Master in Bioinformatics in UniFr and UniBe 🕰️
+- 🐣 Summer project with Sourmash 🐣
 
 <!--
 **lieselty/lieselty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
