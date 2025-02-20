@@ -1,6 +1,6 @@
 ### Hi there, currently learning a lot of things ! 🥰
 - 🕰️ Currently doing a Master in Bioinformatics in UniFr and UniBe 🕰️
-- 🐣 Summer project with Sourmash 🐣
+- 👀 Master's thesis in the Department of Ophthalmology at Inselspital on the impact of contact lenses on the eye's metagenome. 👀
 
 <!--
 **lieselty/lieselty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
