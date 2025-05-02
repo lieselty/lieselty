@@ -12,12 +12,18 @@ jobs:
       contents: write  # This is crucial for pushing changes
       
     steps:
-      - uses: Platane/snk@master
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Create output directory
+        run: mkdir -p dist
+
+      - name: Generate snake animation
+        uses: Platane/snk@master
         with:
           github_user_name: lieselty
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          svg_out_path: dist/github-contribution-grid-snake.svg
+          gif_out_path: dist/github-contribution-grid-snake.gif
 
       - name: Push the animation to GitHub
         uses: crazy-max/ghaction-github-pages@v3
