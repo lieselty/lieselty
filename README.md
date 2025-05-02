@@ -3,7 +3,7 @@ I'm a Master's student in Bioinformatics and Computational Biology at the Univer
 
 🔬 Interests: Metagenomics, RNA-seq, data science, microbiome research.
 
-🛠️ Skills: R, Python, Bash, HPC clusters, basic machine learning
+🛠️ Skills: R, Python, Bash, HPC clusters,  ML, AI.
 
 💡 Current project: Analyzing the impact of contact lenses on the ocular surface metagenome at Inselspital Bern.
 
