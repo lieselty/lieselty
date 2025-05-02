@@ -8,6 +8,9 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # This is crucial for pushing changes
+      
     steps:
       - uses: Platane/snk@master
         with:
