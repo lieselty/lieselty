@@ -1,9 +1,9 @@
 # Hi, I'm Oriane 👋
-I'm a Master's student in Bioinformatics and Computational Biology at the Universities of Fribourg and Bern.
+I'm a Data scientist and Bioinfromatician, currently doing an internship at FSO!
 
 🔬 Interests: Metagenomics, RNA-seq, data science, microbiome research.
 
-🛠️ Skills: R, Python, Bash, HPC clusters,  ML, AI.
+🛠️ Skills: R, Python, Bash, HPC clusters,  ML, SQL, data science
 
 💡 Current projects: Art from R
 📫 How to reach me: oriane.kopp@gmail.com | [LinkedIn](https://www.linkedin.com/in/oriane-solange-kopp/)
